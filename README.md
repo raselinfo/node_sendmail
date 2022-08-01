@@ -1,3 +1,4 @@
+- Go to https://console.cloud.google.com/welcome?project=gmail-api-tutrial
 - Create a project
 - Create a OAuth consent screen
 - Create Credentials 
